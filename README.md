@@ -107,9 +107,6 @@ sleeping  →  tracking  →  desk_view
 | `wake` | Transition to tracking state |
 | `idle` / `clean` | State transitions |
 
-**Hardcoded responses** (bypass Gemini):
-- "what is your name" / "who are you" → Sparky intro
-- "powered by" / "your cpu" → AMD Ryzen AI response
 
 ---
 
